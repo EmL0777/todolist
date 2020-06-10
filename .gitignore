@@ -1,0 +1,14 @@
+.idea/
+
+##### MacOS
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+##### Composer
+composer.phar
+/vendor/

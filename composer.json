@@ -1,0 +1,22 @@
+{
+    "name": "eml0777.chen/todolist",
+    "type": "project",
+    "authors": [
+        {
+            "name": "eml0777.chen",
+            "email": "eml0777.chen@gmail.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "^0.12.1",
+        "symfony/yaml": "^5.1"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4.5"
+        },
+        "preferred-install": {
+            "*": "dist"
+        }
+    }
+}
